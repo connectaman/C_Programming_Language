@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d129c055-6e6c-421d-b940-5af57929452d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StructureOfC.md" beforeDir="false" afterPath="$PROJECT_DIR$/StructureOfC.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564132022361</updated>
       <workItem from="1564132025282" duration="495000" />
-      <workItem from="1564135882095" duration="1308000" />
+      <workItem from="1564135882095" duration="1394000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@
 
 -------
 
-![Structure](https://sites.google.com/site/cpge6151/_/rsrc/1472875067048/c-pro/structure-of-a-c-program/untitled.JPG)
+![Structure](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/04/Basic-structure-of-C-with-Example.jpg)
 
 
 -----
