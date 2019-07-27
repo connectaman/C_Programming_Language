@@ -10,11 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d129c055-6e6c-421d-b940-5af57929452d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ControlStatement/SimpleIF/LargestOfThree.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControlStatement/SimpleIF/SimpleIFProgram.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControlStatement/SimpleIF/SimpleIf.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlStatement/If-Else/EligibleToVote.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlStatement/If-Else/EvenOff.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlStatement/If-Else/ifelse.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/SizeOfOperator.c" beforeDir="false" afterPath="$PROJECT_DIR$/Operators/SizeOfOperator.c" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <workItem from="1564132025282" duration="495000" />
       <workItem from="1564135882095" duration="2082000" />
       <workItem from="1564139924533" duration="1561000" />
-      <workItem from="1564208174853" duration="1757000" />
+      <workItem from="1564208174853" duration="1968000" />
     </task>
     <servers />
   </component>
