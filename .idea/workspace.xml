@@ -10,10 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d129c055-6e6c-421d-b940-5af57929452d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ControlStatement/Switch/Switch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControlStatement/Switch/SwitchExample1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControlStatement/Switch/SwitchExample2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControlStatement/Switch/SwitchExample3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Do-While/Tables.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Do-While/dowhile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Do-While/dowhileExample1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Do-While/dowhileExample2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loops.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,6 +37,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,7 +65,7 @@
       <workItem from="1564135882095" duration="2082000" />
       <workItem from="1564139924533" duration="1561000" />
       <workItem from="1564208174853" duration="2319000" />
-      <workItem from="1564377726870" duration="675000" />
+      <workItem from="1564377726870" duration="1790000" />
     </task>
     <servers />
   </component>
