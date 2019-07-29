@@ -10,9 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d129c055-6e6c-421d-b940-5af57929452d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ControlStatement/IfElseLadder/Grade.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControlStatement/IfElseLadder/IfElseLadder.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControlStatement/IfElseLadder/NumbersCheck.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlStatement/Switch/Switch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlStatement/Switch/SwitchExample1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlStatement/Switch/SwitchExample2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlStatement/Switch/SwitchExample3.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +62,8 @@
       <workItem from="1564132025282" duration="495000" />
       <workItem from="1564135882095" duration="2082000" />
       <workItem from="1564139924533" duration="1561000" />
-      <workItem from="1564208174853" duration="2217000" />
+      <workItem from="1564208174853" duration="2319000" />
+      <workItem from="1564377726870" duration="675000" />
     </task>
     <servers />
   </component>
