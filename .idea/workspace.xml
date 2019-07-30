@@ -10,16 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d129c055-6e6c-421d-b940-5af57929452d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Functions/C_Library_Functions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/FunctionExample3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/FunctionExample4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/FunctionExample6.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/FunctionExample7.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/FunctionExample8.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/Functions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/FunctionsExample1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/FunctionsExample2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/FunctionsExample5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Call_By_Ref_Value/Call_By_Ref_Value.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Call_By_Ref_Value/SwapNumber_CBR.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Call_By_Ref_Value/SwapNumber_CBV.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +69,7 @@
       <workItem from="1564139924533" duration="1561000" />
       <workItem from="1564208174853" duration="2319000" />
       <workItem from="1564377726870" duration="6297000" />
-      <workItem from="1564463115401" duration="1947000" />
+      <workItem from="1564463115401" duration="2418000" />
     </task>
     <servers />
   </component>
