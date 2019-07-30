@@ -10,8 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d129c055-6e6c-421d-b940-5af57929452d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Functions/Recursion/Recursion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/Recursion/RecusionExample1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/StorageClass/StorageClass.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,6 +33,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -68,7 +68,7 @@
       <workItem from="1564139924533" duration="1561000" />
       <workItem from="1564208174853" duration="2319000" />
       <workItem from="1564377726870" duration="6297000" />
-      <workItem from="1564463115401" duration="3259000" />
+      <workItem from="1564463115401" duration="4756000" />
     </task>
     <servers />
   </component>
