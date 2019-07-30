@@ -10,7 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d129c055-6e6c-421d-b940-5af57929452d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/PracticeProgram1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Continue/Continue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Continue/ContinueExample1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Continue/ContinueExample2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Continue/ContinueExample3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Continue/Goto.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,7 +70,8 @@
       <workItem from="1564135882095" duration="2082000" />
       <workItem from="1564139924533" duration="1561000" />
       <workItem from="1564208174853" duration="2319000" />
-      <workItem from="1564377726870" duration="6092000" />
+      <workItem from="1564377726870" duration="6297000" />
+      <workItem from="1564463115401" duration="625000" />
     </task>
     <servers />
   </component>
