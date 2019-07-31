@@ -10,10 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d129c055-6e6c-421d-b940-5af57929452d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Memory Allocation/Calloc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Memory Allocation/DynamicMemoryAllocation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Memory Allocation/Relloc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Memory Allocation/malloc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/String.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/StringCompare.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/StringConcatenation.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/StringCopy.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/StringLength.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/StringLowerCase.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/StringPointers.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/StringReverse.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/StringUpperCase.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/SubString.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/TraverseAString.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,7 +80,7 @@
       <workItem from="1564377726870" duration="6297000" />
       <workItem from="1564463115401" duration="9298000" />
       <workItem from="1564485883513" duration="123000" />
-      <workItem from="1564548559109" duration="2012000" />
+      <workItem from="1564548559109" duration="5536000" />
     </task>
     <servers />
   </component>
