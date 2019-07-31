@@ -10,8 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d129c055-6e6c-421d-b940-5af57929452d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pointers/PointersArithmetic/PointersArithmetic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pointers/PointersArithmetic/ArrayPointer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pointers/PointersArithmetic/PointerAddition.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pointers/PointersArithmetic/PointerDecrement.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pointers/PointersArithmetic/PointerFunction.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pointers/PointersArithmetic/PointersArithmetic.md" beforeDir="false" afterPath="$PROJECT_DIR$/Pointers/PointersArithmetic/PointersArithmetic.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +74,7 @@
       <workItem from="1564377726870" duration="6297000" />
       <workItem from="1564463115401" duration="9298000" />
       <workItem from="1564485883513" duration="123000" />
-      <workItem from="1564548559109" duration="941000" />
+      <workItem from="1564548559109" duration="1332000" />
     </task>
     <servers />
   </component>

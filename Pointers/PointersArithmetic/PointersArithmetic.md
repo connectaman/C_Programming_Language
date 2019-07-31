@@ -49,3 +49,16 @@ After increment: Address of p variable is 3214864304
 
 ----
 
+##### Illegal arithmetic with pointers
+
+There are various operations which can not be performed on pointers. Since, pointer stores address hence we must ignore the operations which may lead to an illegal address, for example, addition, and multiplication. A list of such operations is given below.
+
+    - Address + Address = illegal
+    - Address * Address = illegal
+    - Address % Address = illegal
+    - Address / Address = illegal
+    - Address & Address = illegal
+    - Address ^ Address = illegal
+    - Address | Address = illegal
+    - ~Address = illegal
+
