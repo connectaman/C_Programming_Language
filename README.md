@@ -62,3 +62,76 @@ A Low-level language is specific to one machine, i.e., machine dependent. It is 
 
 A High-Level language is not specific to one machine, i.e., machine independent. It is easy to understand.
 
+-----------
+
+Topics
+
+
+| C Programming|
+|----------|
+|[History of C](https://github.com/connectaman/C_Programming_Language/blob/master/HistoryOfC.md)|
+|[Features of C](https://github.com/connectaman/C_Programming_Language/blob/master/FeaturesOfC.md)|
+|[Structure of C](https://github.com/connectaman/C_Programming_Language/blob/master/StructureOfC.md)|
+|[printf scanf](https://github.com/connectaman/C_Programming_Language/tree/master/printf%26scanf)|
+|[Variables in C](https://github.com/connectaman/C_Programming_Language/blob/master/VariableInC/Variable.md)|
+|[Data Types in c](https://github.com/connectaman/C_Programming_Language/tree/master/DataType)|
+|Keywords in c|
+|C Operators|
+|C Comments|
+|C Escape Sequence|
+|Constants in C|
+|C Fundamental Test|
+|C Control Statements|
+|C if-else|
+|C switch|
+|C Loops|
+|C do-while loop|
+|C while loop|
+|C for loop|
+|C break|
+|C continue|
+|C Functions|
+|What is function|
+|Call: Value & Reference|
+|Recursion in c|
+|Storage Classes|
+|C Functions Test|
+|C Array|
+|1-D Array|
+|2-D Array|
+|Array to Function|
+|C Array Test|
+|C Pointers|
+|C Pointers|
+|C Pointer to Pointer|
+|C Pointer Arithmetic||
+|C Dynamic Memory|
+|Dynamic memory|
+|C Strings|
+|String in C|
+|C gets() & puts()|
+|C String Functions|
+|C strlen()|
+|C strcpy()|
+|C strcat()|
+|C strcmp()|
+|C strrev()|
+|C strlwr()|
+|C strupr()|
+|C strstr()|
+|C Math|
+|C Math Functions|
+|C Structure Union|
+|C Structure|
+|C Array of Structures|
+|C Nested Structure|
+|C File Handling|
+|C File Handling|
+|C fprintf() fscanf()|
+|C fputc() fgetc()|
+|C fputs() fgets()|
+|C Preprocessor|
+|C Command Line|
+|Command Line Arguments|
+|C Interview|
+
