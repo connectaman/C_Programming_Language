@@ -32,3 +32,11 @@ The five alphabets A, E, I, O and U are called vowels. All other alphabets excep
 
 -------
 
+6- Simple Calculator using switch Statement
+
+```
+This program takes an arithmetic operator +, -, *, / and two operands from the user and performs the calculation on the two operands depending upon the operator entered by the user.
+```
+
+----
+
