@@ -5,7 +5,7 @@ void main ()
     char c;
     int choice,dummy;
     do{
-        printf("\n1. Print Hello\n2. Print Javatpoint\n3. Exit\n");
+        printf("\n1. Print Hello\n2. Print Elon Musk \n3. Exit\n");
         scanf("%d",&choice);
         switch(choice)
         {
@@ -28,7 +28,7 @@ void main ()
 }
 
 //1. Print Hello
-//2. Print Javatpoint
+//2. Print Elon Musk
 //3. Exit
 //1
 //Hello
@@ -36,9 +36,9 @@ void main ()
 //y
 //
 //1. Print Hello
-//2. Print Javatpoint
+//2. Print Elon Musk
 //3. Exit
 //2
-//Javatpoint
+//Elon Musk
 //do you want to enter more?
 //n
