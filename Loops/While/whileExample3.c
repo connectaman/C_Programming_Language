@@ -3,7 +3,7 @@ void main ()
 {
     while()
     {
-        printf("hello Javatpoint");
+        printf("hello there");
     }
 }
 
