@@ -334,3 +334,14 @@ Output
 
 ----
 
+12- Create a C program, which calculates the triangualr number of the user's request, read from the keyboard using scanf(). A triangular number is the sum of the preceeding numbers, so the traingular number 7 has the value of 7+6+5+4+3+2+1 (same as a factorial in mathematics, for example , factorial of 7 --- !7).
+
+
+```objectivec
+
+```
+Output
+
+```
+
+```

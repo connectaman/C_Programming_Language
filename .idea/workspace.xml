@@ -10,11 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d129c055-6e6c-421d-b940-5af57929452d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programs/loops/loopsprgramsSolution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/loops/loopsprograms.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/ControlStatements/ControlProgramSolutions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/ControlStatements/ControlProgramSolutions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/ControlStatements/ControlPrograms.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/ControlStatements/ControlPrograms.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/loops/loopsprgramsSolution.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/loops/loopsprgramsSolution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/loops/loopsprograms.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/loops/loopsprograms.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +73,8 @@
       <workItem from="1564485883513" duration="123000" />
       <workItem from="1564548559109" duration="9101000" />
       <workItem from="1564586441524" duration="764000" />
-      <workItem from="1564636925781" duration="5089000" />
+      <workItem from="1564636925781" duration="5157000" />
+      <workItem from="1565241656197" duration="499000" />
     </task>
     <servers />
   </component>
