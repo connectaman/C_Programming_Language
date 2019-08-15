@@ -10,10 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d129c055-6e6c-421d-b940-5af57929452d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programs/Arrays/ArrayProgramSolutions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/Arrays/ArrayPrograms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Handling/fprintf and fscanf.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Handling/putc and getc.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Odd_Even_Functions.c" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Odd_Even_Functions.c" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +77,7 @@
       <workItem from="1565241656197" duration="701000" />
       <workItem from="1565266002622" duration="2652000" />
       <workItem from="1565696745061" duration="4199000" />
-      <workItem from="1565783075207" duration="3300000" />
+      <workItem from="1565783075207" duration="5642000" />
     </task>
     <servers />
   </component>
