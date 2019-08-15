@@ -1,26 +1,28 @@
 #include<stdio.h>
-int oddeven(int);
+int checkPrime(int);
+
 int main(){
     int num;
     printf("Enter the nuber :");
     scanf("%d",&num);
-    int result= oddeven(num);
-    if(result){
-        printf("\n the number entered is a even");
+    int result= checkPrime(num);
+    if(result==1){
+        printf("\n the number entered is prime");
     }
     else{
-        printf("\n the number entered is not a even");
+        printf("\n the number entered is not a prime");
     }
 
     return 0;
 }
 int oddeven(int n){
-    if(n%2==0){
-        return 1;
+    int count=0;
+    for(int i=2;i<=n;i++){
+        if(n%i==0){
+            count++;
+        }
     }
-    else{
-        return 0;
-    }
+    return count;
 }
 
 
