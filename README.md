@@ -113,8 +113,8 @@ Topics
 |[C File Handling](https://github.com/connectaman/C_Programming_Language/tree/master/File%20Handling)|
 |[C fprintf() fscanf()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/fprintf%20and%20fscanf.md)|
 |[C fputc() fgetc()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/putc%20and%20getc.md)|
-|[C fputs() fgets()]()|
-|[C fseek()]()|
+|[C fputs() fgets()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/gets%20and%20puts.md)|
+|[C fseek()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/fseek().md)|
 |[C rewind()]()|
 |[C Preprocessor]()|
 |[C Command Line]()|
