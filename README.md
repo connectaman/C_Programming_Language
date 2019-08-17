@@ -114,6 +114,8 @@ Topics
 |[C fprintf() fscanf()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/fprintf%20and%20fscanf.md)|
 |[C fputc() fgetc()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/putc%20and%20getc.md)|
 |[C fputs() fgets()]()|
+|[C fseek()]()|
+|[C rewind()]()|
 |[C Preprocessor]()|
 |[C Command Line]()|
 |[Command Line Arguments]()|
