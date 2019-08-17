@@ -111,8 +111,8 @@ Topics
 |[C Nested Structure](https://github.com/connectaman/C_Programming_Language/blob/master/Structure%20and%20Unions/Structure/NestedStructure.md)|
 |[C Union](https://github.com/connectaman/C_Programming_Language/tree/master/Structure%20and%20Unions/Unions)|
 |[C File Handling](https://github.com/connectaman/C_Programming_Language/tree/master/File%20Handling)|
-|[C fprintf() fscanf()]()|
-|[C fputc() fgetc()]()|
+|[C fprintf() fscanf()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/fprintf%20and%20fscanf.md)|
+|[C fputc() fgetc()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/putc%20and%20getc.md)|
 |[C fputs() fgets()]()|
 |[C Preprocessor]()|
 |[C Command Line]()|
