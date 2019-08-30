@@ -115,7 +115,7 @@ Topics
 |[C fputc() fgetc()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/putc%20and%20getc.md)|
 |[C fputs() fgets()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/gets%20and%20puts.md)|
 |[C fseek()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/fseek().md)|
-|[C rewind()]()|
+|[C rewind()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/rewind().md)|
 |[C Preprocessor]()|
 |[C Command Line]()|
 |[Command Line Arguments]()|
