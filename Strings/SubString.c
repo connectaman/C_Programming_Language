@@ -9,4 +9,4 @@ int main(){
 }
 
 
-//programming with c and java
+//Substring is: java
