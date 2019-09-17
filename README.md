@@ -77,8 +77,6 @@ Topics
 |[Data Types in c](https://github.com/connectaman/C_Programming_Language/blob/master/DataType/DataTypeInC.md)|
 |[Keywords in c](https://github.com/connectaman/C_Programming_Language/blob/master/DataType/KeyWords.md)|
 |[C Operators](https://github.com/connectaman/C_Programming_Language/tree/master/Operators)|
-|[C Comments]()|
-|[C Escape Sequence]()|
 |[C Control Statements](https://github.com/connectaman/C_Programming_Language/tree/master/ControlStatement)|
 |[C if](https://github.com/connectaman/C_Programming_Language/tree/master/ControlStatement/SimpleIF)|
 |[C if-else](https://github.com/connectaman/C_Programming_Language/tree/master/ControlStatement/If-Else)|
@@ -116,9 +114,5 @@ Topics
 |[C fputs() fgets()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/gets%20and%20puts.md)|
 |[C fseek()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/fseek().md)|
 |[C rewind()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/rewind().md)|
-|[C Preprocessor]()|
-|[C Command Line]()|
-|[Command Line Arguments]()|
 |[C Programs](https://github.com/connectaman/C_Programming_Language/tree/master/Programs)|
-|[C Interview]()|
 
